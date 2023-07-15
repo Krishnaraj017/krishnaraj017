@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 💬 Ask me about **Android , Flutter**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **krishnarajshetty699@gmail.com**
 
