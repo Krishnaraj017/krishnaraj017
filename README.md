@@ -10,7 +10,9 @@
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **krishnarajshetty699@gmail.com**
-- **https://www.linkedin.com/in/krishnaraj-shetty-b10617229**
+- LinkedIn-**https://www.linkedin.com/in/krishnaraj-shetty-b10617229**
+- Portfolio-**https://krishnaraj7.netlify.app**
+
 
 - ⚡ Fun fact **I am Funny**
 
