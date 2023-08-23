@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Android Jetpack Compose**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **App development**
 
 - 📫 How to reach me **krishnarajshetty699@gmail.com**
 - LinkedIn-**www.linkedin.com/in/krishnaraj-shetty-7s**
