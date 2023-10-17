@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fshop%2Freact&psig=AOvVaw1XNxP3A-AHqDfwhXRGJPpg&ust=1697648498179000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjJqM7H_YEDFQAAAAAdAAAAABAD)
+
 
 <h1 align="center">Hi 👋, I'm Krishnaraj Shetty</h1>
 <h3 align="center">a passionate and aspiring Full Stack developer from India!</h3>
