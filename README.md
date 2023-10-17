@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaraj017&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaraj017" /> </p>
 
-- 🌱 I’m currently learning **Android Jetpack Compose**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **App development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **krishnarajshetty699@gmail.com**
 - LinkedIn-**www.linkedin.com/in/krishnaraj-shetty-7s**
