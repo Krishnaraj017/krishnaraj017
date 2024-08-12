@@ -1,12 +1,12 @@
 
 
 <h1 align="center">Hi 👋, I'm Krishnaraj Shetty</h1>
-<h3 align="center">a passionate and aspiring Full Stack developer from India!</h3>
+<h3 align="center">a passionate and aspiring Full Stack Engineer from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnaraj017&label=Profile%20views&color=0e75b6&style=flat" alt="krishnaraj017" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Firebase**
 
 - 💬 Ask me about **Software Development**
 
