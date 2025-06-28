@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **krishnarajshetty699@gmail.com**
 - LinkedIn-**www.linkedin.com/in/krishnaraj-shetty-7s**
-- Portfolio-**https://krishr7.netlify.app/**
 
 
 - ⚡ Fun fact **I am Funny**
